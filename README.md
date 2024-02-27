@@ -15,9 +15,6 @@ https://fueleconomy.gov/feg/tax2023.shtml
 https://catalog.data.gov/dataset/electric-vehicle-population-data
 - Washington State Data
 
-
-# Group Members 
-Esha Patel, Ipsita Pattanaik, Jeff Morgan, Neil Lawren, Smita Shah
 ### PROJECT OUTINE
 
 * Select the real-world data set from API/any other source.
